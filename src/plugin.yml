@@ -1,0 +1,5 @@
+name: Leagues
+
+main: com.bukkit.isabaellchen.leagues.Leagues
+
+version: 0.1
